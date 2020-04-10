@@ -5,8 +5,10 @@
 <?php 
 echo "Nama : Fadlan Kasyfi<br>";
 echo "Kelas : XI RPL 1<br>";
+echo "Nomor HP : 08977069274<br>";
+echo "Email : fadlankasyfi86@gmail.com<br>";
 echo "Asal Sekolah : SMK Taruna Bhakti<br>";
-echo "Alamat : Perum Jatijajar Blok D 24/16<br>";
+
 
 ?>
 
